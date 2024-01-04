@@ -1,0 +1,4 @@
+#install gradio
+#install whisper
+#install torch, torchvision, torchaudio
+#install transformers
